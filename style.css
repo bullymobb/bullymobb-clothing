@@ -2117,8 +2117,8 @@ a#scrollUp:hover {
 /*  19. shop
 /*----------------------------------------*/
 .breadcrumbs-area {
-  background: #f6f6f6 url("img/bullymobb-placeholder-1-banner-web-1820x400.jpg")
-    no-repeat scroll center top;
+  background: #f6f6f6 url("img/bullymobb-shop-banner-1820x400.png") no-repeat
+    scroll center top;
   margin: 0;
   padding: 120px 0 200px;
 }

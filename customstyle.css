@@ -102,9 +102,27 @@ nav > ul > li.active {
   color: #ee3333 !important;
 }
 
+.footer-logo {
+  position: relative;
+  top: -30px;
+}
 .header-area {
   width: 90%;
   margin: 0 auto;
+}
+
+.logo-area {
+  position: relative;
+  top: -9px;
+}
+
+.breadcrumbs-area {
+  background-color: white;
+}
+
+.breadcrumb-content {
+  position: relative;
+  top: -30px;
 }
 @media (max-width: 480px) {
   .banner-area {
