@@ -124,8 +124,16 @@ nav > ul > li.active {
   position: relative;
   top: -30px;
 }
+
+.clip {
+  width: 560px;
+  height: 315px;
+}
 @media (max-width: 480px) {
   .banner-area {
     margin-top: 60px !important;
+  }
+  .clip {
+    width: 100%;
   }
 }
